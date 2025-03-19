@@ -6,7 +6,8 @@ Minishell is a simple, yet powerful shell that combines built-in commands with t
 
 
 
-https://github.com/user-attachments/assets/2131b55a-88e3-4300-8f8a-da0ddee8f9e0
+![Mi-película](https://github.com/user-attachments/assets/1953df78-07da-4774-b517-cbe4224d716d)
+
 
 
 
