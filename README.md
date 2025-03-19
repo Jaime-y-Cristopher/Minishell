@@ -38,7 +38,6 @@ Redirections can optionally specify a file descriptor (`[n]`). If not specified,
 - `> file` (output redirection) — Writes output to a file, overwriting it.  
 - `>> file` (output redirection append mode) — Appends output to a file instead of overwriting.  
 
-![minishell1](https://github.com/user-attachments/assets/90bd87f4-ba53-415e-90db-ed5f787e1dfa)
 
 
 ### Compilation
