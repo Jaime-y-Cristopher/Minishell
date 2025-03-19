@@ -4,7 +4,10 @@
 
 Minishell is a simple, yet powerful shell that combines built-in commands with the ability to run any external program. It’s designed to work a lot like BASH, featuring things like variable expansion, multiple pipes, and flexible redirections.
 
-![Mi-película](https://github.com/user-attachments/assets/d592a20f-c9fb-4f00-bd17-8f38df8c950e)
+
+
+https://github.com/user-attachments/assets/2131b55a-88e3-4300-8f8a-da0ddee8f9e0
+
 
 
 ### Features
